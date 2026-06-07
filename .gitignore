@@ -1,0 +1,17 @@
+# Data CSV (besar, upload ke HuggingFace)
+*.csv
+
+# Output eksperimen
+Data_Output_*/
+
+# Checkpoint GA
+*.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
