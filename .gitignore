@@ -1,5 +1,4 @@
-# Data CSV (besar, upload ke HuggingFace)
-*.csv
+# CSV ditangani Git LFS (lihat .gitattributes)
 
 # Output eksperimen
 Data_Output_*/
